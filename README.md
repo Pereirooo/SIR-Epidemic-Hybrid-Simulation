@@ -35,7 +35,7 @@ The project demonstrates how global behavior (the infection curve) **emerges** f
 ### Real-Time Simulation (ABM)
 *Visualization of agent interaction in a closed space. Red: Infected, Blue: Susceptible, Green: Recovered.*
 
-![Agent Simulation GIF](assets/simulation.gif)
+![Agent Simulation GIF](assets/SIR-simulation.gif)
 *(Ensure the simulation.gif file is located in the assets/ folder)*
 
 ### Cross-Validation (EBM vs ABM)
