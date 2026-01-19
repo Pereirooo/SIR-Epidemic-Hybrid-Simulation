@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
+#Recibe poblaciones iniciales, tasa trans., recupera. y nº días y tamaño del paso temporal
 
 def resolver_sir_ebm(S0, I0, R0, beta, gamma, dias, dt):
     """
